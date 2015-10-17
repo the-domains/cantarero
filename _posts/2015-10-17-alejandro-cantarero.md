@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-17T19:53:19.434Z'
-dateModified: '2015-10-17T19:53:08.564Z'
+datePublished: '2015-10-17T19:54:29.189Z'
+dateModified: '2015-10-17T19:54:24.530Z'
 title: Alejandro Cantarero
 authors: []
 publisher:
