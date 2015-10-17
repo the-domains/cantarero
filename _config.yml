@@ -1,6 +1,6 @@
 name: Cantarero
 favicon: null
-layout_spectrum: 0.75428
+layout_spectrum: 1
 cta:
   domain: null
   bucket: null
