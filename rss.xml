@@ -4,7 +4,7 @@
         <description><![CDATA[Alejandro Cantarero]]></description>
         <link>https://thegrid.ai/cantarero/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 21:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 21:41:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cantarero/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Alejandro Cantarero]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/cantarero/alejandro-cantarero/index.html</link>
             <guid isPermaLink="false">7f59b75f-2f03-4008-a1fe-458d6934d3ad</guid>
             <pubDate>Sat, 17 Oct 2015 19:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8835d61f-d94e-499b-a33c-7378fa6b7faf.png">]]></description>
-            <link>https://thegrid.ai/cantarero/38a1af17-701d-4da8-84c1-0253c29218ab/index.html</link>
-            <guid isPermaLink="false">38a1af17-701d-4da8-84c1-0253c29218ab</guid>
-            <pubDate>Fri, 16 Oct 2015 05:33:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
