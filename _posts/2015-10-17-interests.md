@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T22:24:24.738Z'
+datePublished: '2016-01-31T22:24:24.750Z'
 dateModified: '2016-01-31T22:24:20.592Z'
 title: Personal
 sourcePath: _posts/2015-10-17-interests.md
