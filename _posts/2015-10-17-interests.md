@@ -1,16 +1,17 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-18T17:27:23.554Z'
-dateModified: '2015-10-18T17:26:54.965Z'
-title: Interests
+datePublished: '2016-01-31T22:24:24.544Z'
+dateModified: '2016-01-31T22:24:20.592Z'
+title: Personal
 sourcePath: _posts/2015-10-17-interests.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -18,9 +19,12 @@ publisher:
   url: null
   favicon: null
 url: interests/index.html
-_type: Blurb
+_type: Article
 
 ---
+# Personal
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fae0baf-0a65-40ad-86a5-1825b3f66bc4.JPG)
+
 # Interests
 
 Diving
@@ -28,7 +32,6 @@ Diving
 This page looks really horrible.  Maybe there is not enough content?  I like to go scuba diving.  Maybe if I write several words about that it will look better?
 
 Here's a turtle near a wrecked pier near Lahaina.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fae0baf-0a65-40ad-86a5-1825b3f66bc4.JPG)
 
 Maui, HI
 
