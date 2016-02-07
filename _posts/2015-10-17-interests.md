@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T22:24:24.819Z'
-dateModified: '2016-01-31T22:24:20.592Z'
+datePublished: '2016-02-07T00:26:17.224Z'
+dateModified: '2016-02-07T00:26:13.340Z'
 title: Personal
 sourcePath: _posts/2015-10-17-interests.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: interests/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Personal
