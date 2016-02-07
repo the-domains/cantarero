@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T01:04:21.899Z'
-dateModified: '2016-02-07T01:04:19.932Z'
+datePublished: '2016-02-07T01:08:44.426Z'
+dateModified: '2016-02-07T01:08:41.783Z'
 title: Professional
 author: []
 sourcePath: _posts/2016-02-07-professional.md
@@ -23,18 +23,18 @@ _type: WebPage
 
 ---
 # Professional
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e212c2d3-b8ef-4979-b0c7-fc0e1f50632e.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dc1dbe06921ea1864cd7f5e434bf5a44a1c1000.png)
 
 Content marketing, audience building, social networks and predictive modeling.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55b81d22-c355-46ba-afe2-ce88a05f5458.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d7b947498188ecfe95fa659d7bdabbaa37c5523.jpg)
 
 Content discovery on social network in news verticals
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fda3bb1-cb3b-41b1-8565-05dfbc4c81d9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11b46619d39d199005854ea9c4467f44530330d8.jpg)
 
 Distributed GPU algorithms for solving neural networks.  Long wave propagation algorithm on spiking neural networks.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3264d127-3cd3-4278-85fc-a26799a2f981.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5b62c51489b096249281fada1906ad855662f6b.jpg)
 
 State of the art video compression algorithms and detection of logos in video streams.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/236bd89e-0698-43e7-866b-08ac4937ce3e.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab4eec5ff0a4386cd3820b7a3fd46d27eb968e4b.png)
 
 Numerical linear algebra and numerical PDEs.
