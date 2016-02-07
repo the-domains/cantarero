@@ -1,24 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-17T19:54:29.189Z'
-dateModified: '2015-10-17T19:54:24.530Z'
+datePublished: '2016-02-07T00:30:49.002Z'
+dateModified: '2016-02-07T00:30:41.401Z'
 title: Alejandro Cantarero
+sourcePath: _posts/2015-10-17-alejandro-cantarero.md
+published: true
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-17-alejandro-cantarero.md
-published: true
-url: alejandro-cantarero/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Alejandro Cantarero
